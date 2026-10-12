@@ -1,0 +1,5 @@
+{
+  "interval_seconds": 30,
+  "timeout_seconds": 5,
+  "expected_status": 200
+}

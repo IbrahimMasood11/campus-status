@@ -1,0 +1,10 @@
+{
+  "backup_dir": "backup",
+  "retention_days": 7,
+  "include": [
+    "README.md",
+    "config",
+    "docs",
+    "site"
+  ]
+}

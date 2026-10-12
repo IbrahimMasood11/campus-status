@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Local environment/secrets
+.env
+*.pem
+*.key
+credentials.json
+
+# Generated output
+backup/
+*.log
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

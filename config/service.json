@@ -1,0 +1,6 @@
+{
+  "service_name": "campus-status",
+  "host": "localhost",
+  "port": 8080,
+  "health_path": "/"
+}
