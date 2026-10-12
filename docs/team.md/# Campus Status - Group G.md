@@ -9,3 +9,4 @@ Campus Status is a project for managing campus services using configuration file
 | Member | Week 5 role |
 | --- | --- |
 | Muhammad Masood | Project Coordinator |
+| Muhammad Yusuf Masood| Review Coordinator |
